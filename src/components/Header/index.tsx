@@ -10,7 +10,7 @@ export function Header() {
         Nova transação
 
       </button>
-      </Content>
+      </Content> 
     </Container>
   );
 }
